@@ -1,0 +1,8 @@
+// js learn skill
+https://www.linkedin.com/learning/javascript-essential-training-3/welcome
+
+//reactjs
+  "homepage": "https://shashikant88093.github.io/shashikanrMonters",
+    "predeploy":"npm run build",
+    "deploy":"gh-pages -d build",
+
