@@ -27,7 +27,7 @@
     "express-session": "^1.17.0",
     "fast-csv": "^4.1.1",
     "fs": "0.0.1-security",
-    "html-pdf": "^2.2.0",
+    "html-pdf": "^3.0.1",
     "jade": "^1.11.0",
     "jsonwebtoken": "^8.5.1",
     "moment": "^2.24.0",
